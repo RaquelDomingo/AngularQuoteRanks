@@ -1,10 +1,10 @@
-import { AppPage } from './app.po';
+import { QuoteRanksPage } from './app.po';
 
 describe('quote-ranks App', () => {
-  let page: AppPage;
+  let page: QuoteRanksPage;
 
   beforeEach(() => {
-    page = new AppPage();
+    page = new QuoteRanksPage();
   });
 
   it('should display welcome message', () => {

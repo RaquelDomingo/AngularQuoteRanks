@@ -1,0 +1,64 @@
+div.quote {
+    background-color: #eee;
+    width: 870px;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+div.content {
+    width: 600px;
+    height: 140px;
+    display: inline-block;
+}
+
+.right {
+    position: relative;
+    left: 50px;
+}
+
+div.rating {
+    width: 100px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    padding-top: 30px;
+}
+
+div.buttons {
+    vertical-align: top;
+    width: 90px;
+    display: inline-block;
+    text-align: center;
+}
+
+div.buttons button {
+    display: block;
+    width: 100px;
+}
+
+div.buttons button.up {
+    background-color: #BCD5AC;
+    border: 0px;
+    margin-bottom: 10px;
+    width: 150px;
+    height: 35px;
+    box-shadow: 5px 5px 5px black;
+}
+
+div.buttons button.down {
+    background-color: #DE9C9A;
+    border: 0px;
+    margin-bottom: 10px;
+    width: 150px;
+    height: 35px;
+    box-shadow: 5px 5px 5px black;
+}
+
+div.buttons button.delete {
+    background-color: #333;
+    color: white;
+    border: 0px;
+    width: 150px;
+    height: 35px;
+    box-shadow: 5px 5px 5px black;
+}

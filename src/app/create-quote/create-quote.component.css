@@ -1,0 +1,43 @@
+input {
+    width: 185px;
+    height: 20px;
+    display: inline-block;
+}
+h3{
+    display: inline-block;
+    margin-left: 350px;
+}
+textarea {
+    width: 600px;
+    height: 150px;
+}
+
+div.validations {
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    left: 630px;
+    bottom: 220px;
+    color: red;
+}
+
+div.validations span {
+    display: block;
+}
+
+div.validations span.author {
+    margin-top: 20px;
+    
+}
+
+button {
+    background-color: white;
+    box-shadow: 5px 5px 5px black;
+    color: black;
+    width: 108px;
+    height: 30px;
+    border: 1px solid black;
+    margin-left: 500px;
+}
+
+
