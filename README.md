@@ -1,3 +1,6 @@
+<img width="722" alt="quote ranks" src="https://user-images.githubusercontent.com/29441324/31867815-2b1528a2-b74a-11e7-8b1e-8e6b08db85c2.png">
+
+
 # QuoteRanks
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
